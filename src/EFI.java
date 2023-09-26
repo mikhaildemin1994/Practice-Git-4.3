@@ -9,5 +9,6 @@ public class EFI {
         System.out.println(Fuel.getFuel());
         System.out.println(AirFlowSensor.getAir());
         System.out.println(Fuel.getFuelPressure());
+        System.out.println("Check");
     }
 }
