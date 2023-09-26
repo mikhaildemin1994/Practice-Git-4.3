@@ -8,5 +8,6 @@ public class EFI {
         AirFlowSensor.setAir(0.05);
         System.out.println(Fuel.getFuel());
         System.out.println(AirFlowSensor.getAir());
+        System.out.println(Fuel.getFuelPressure());
     }
 }
